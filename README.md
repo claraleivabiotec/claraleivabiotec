@@ -1,3 +1,3 @@
-### Becoming a self taught data scientist 
+### Becoming a self taught Data Scientist 
 
 
